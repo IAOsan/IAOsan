@@ -1,4 +1,4 @@
-![MasterHead](./head.jpg)
+![MasterHead](./header.jpg)
 
 <h3>¡Bienvenido a mi rincón en GitHub!</h3>
 <h4>👉 Sobre mí</h4>
